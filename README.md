@@ -22,7 +22,6 @@ The dashboard has been designed for desktop viewing, ensuring accessibility for 
 ## 📌 Dashboard Features
 
 ### 📍 Page 1: `US Furniture Sales`
-Renamed from "Page 1" to reflect the overall theme of the dashboard.
 
 #### ✅ Visual Highlights:
 - **Title Card**: “US Furniture Sales”
@@ -42,7 +41,6 @@ Renamed from "Page 1" to reflect the overall theme of the dashboard.
 #### 🛠️ Features Implemented:
 - Custom DAX measure to calculate number of distinct products
 - Page Navigation enabled for smooth user experience
-- Dashboard optimized for **mobile layout**
 
 ---
 
