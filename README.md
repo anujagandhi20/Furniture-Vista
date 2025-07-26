@@ -1,7 +1,5 @@
 # 📊 Furniture-Vista : US Furniture Sales Executive Dashboard
 
-## 📝 Project Overview
-
 This repository contains a Power BI executive dashboard designed to provide insightful analytics for the **US Furniture Sales Organization**. The objective of this project is to display key performance indicators (KPIs), profit metrics, regional and customer segment trends, and comparative performance against targets.
 
 The dashboard has been designed for desktop viewing, ensuring accessibility for decision-makers on the go.
